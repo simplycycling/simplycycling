@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Go, Ruby, Terraform, Ansible, and all manner of cloud computing.
 - 🌱 I’m currently learning the finer points of software engineering.
 - 💞️ I’m looking to collaborate on almost anything. I'm down to clown! Let's build something!
-- 📫 How to reach me @rogersherman@hachyderm.io 
+- 📫 How to reach me: Just look at my profile, to the left.
 
 Every line of code that I commit is completely human generated!
 
