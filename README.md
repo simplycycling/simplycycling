@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on almost anything. I'm down to clown! Let's build something!
 - 📫 How to reach me: Just look at my profile, to the left.
 
-Every line of code that I commit is completely human generated!
+Every line of code that I commit is completely human generated (README's might be a different story)!
 
 <!---
 simplycycling/simplycycling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
